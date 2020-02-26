@@ -1,0 +1,19 @@
+{
+  "name": "clubby",
+  "version": "1.0.0",
+  "description": "Text based adventure that was started for a beginning programming class.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beach-Master/Clubby.git"
+  },
+  "author": "Corey and Caleb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Beach-Master/Clubby/issues"
+  },
+  "homepage": "https://github.com/Beach-Master/Clubby#readme"
+}
